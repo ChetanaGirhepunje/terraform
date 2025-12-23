@@ -7,7 +7,7 @@ module "db" {
    username = "chetana"
    password = "chetana@123"
    db_name = "cg_db"
-   name = "cg_sg"
+   name = "chetana_sg"
    subnet_ids = [
     "subnet-00e6319a0a88945ee",
     "subnet-03fe18304f51a1530"
